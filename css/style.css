@@ -690,3 +690,7 @@ footer {
 .icon-close  {
   fill: #000;
 }
+
+textarea {
+  resize: none;
+}
