@@ -851,7 +851,7 @@ textarea:focus-within {
   background-color: var(--accent-color);
   background-size: contain;
   background-origin: border-box;
-  background-image: url('../image/Vector.svg');
+  background-image: url('../image/Vector\ \(3\).svg');
 
   border-color: var(--accent-color);
 }
